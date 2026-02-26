@@ -1,0 +1,24 @@
+[{
+    "name":"Spongebob",
+    "age":30,
+    "isEmployed":true,
+    "hobbies":["jellyfishing", "karate", "cooking"]
+}, 
+{
+    "name":"Patrick",
+    "age":34,
+    "isEmployed": false,
+    "hobbies":["jellyfishing", "karate", "cooking"]
+},
+{
+    "name":"Squidward",
+    "age":50,
+    "isEmployed":true,
+    "hobbies":["jellyfishing", "karate", "cooking"]
+},
+{
+    "name":"Sandy",
+    "age":27,
+    "isEmployed": false,
+    "hobbies":["jellyfishing", "karate", "cooking"]
+}]
